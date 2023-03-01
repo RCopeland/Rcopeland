@@ -20,3 +20,8 @@ I can't share any of the stuff I do for work usually, so most of what's here is 
 | Design               | [Figma](https://www.figma.com/)                                                          |                                                                                  | I like it cause its cross-platform and it's auto layout concept lines up with building stuff with flexbox, which helps tie design and code together a little.                                                      |
 
 ![React](https://github.com/rcopeland/rcopeland/raw/main/React.png)
+![Redux](https://github.com/rcopeland/rcopeland/raw/main/Redux.png)
+![Sass](https://github.com/rcopeland/rcopeland/raw/main/Sass.png)
+![Tailwind](https://github.com/rcopeland/rcopeland/raw/main/Tailwind.png)
+![Typescript](https://github.com/rcopeland/rcopeland/raw/main/Typescript.png)
+![Jest](https://github.com/rcopeland/rcopeland/raw/main/Jest.png)
