@@ -8,8 +8,6 @@ I can't share any of the stuff I do for work usually, so most of what's here is 
 
 ## Stuff I Use 
 
-Obviously a tech stack is highly project specific, but here's the stuff I like to use, all else being equal.
-
 | Purpose              | Technology                                                                               | Considering Replacement with                                                     | Why                                                                                                                                                                                                                |
 |----------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JS Framework         | [React](https://reactjs.org/)                                                            |                                                                                  | I know it, its popular and the alternatives value add isn't high enough to offset the cost.                                                                                                                        |
@@ -20,3 +18,5 @@ Obviously a tech stack is highly project specific, but here's the stuff I like t
 | Build tool           | [Webpack](https://webpack.js.org/)                                                       | [Vite](https://vitejs.dev/)                                                      | Vite is so fast, but can it do weird stuff as well as webpack?                                                                                                                                                     |
 | 3D | [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) |                                                                                  | Helps integrate three stuff into a react app more naturally.                                                                                                                                                       |
 | Design               | [Figma](https://www.figma.com/)                                                          |                                                                                  | I like it cause its cross-platform and it's auto layout concept lines up with building stuff with flexbox, which helps tie design and code together a little.                                                      |
+
+![React](https://github.com/rcopeland/rcopeland/raw/main/React.png)
