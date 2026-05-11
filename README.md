@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="https://github.com/rcopeland/rcopeland/raw/main/steve.gif" alt="Confused">
+	<img src="https://github.com/rcopeland/rcopeland/gifs/raw/main/steve2.gif" alt="Confused">
 </div>
